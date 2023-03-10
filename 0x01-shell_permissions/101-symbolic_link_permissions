@@ -1,0 +1,2 @@
+#!/bin/bush
+chown -h vincent:staff _hello
